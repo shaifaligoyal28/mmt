@@ -1,0 +1,9 @@
+[{
+  "url":"https://asia-east2-jsondoc.cloudfunctions.net/function-1?delay=1000",
+  "isParallel":true,
+  "count":"5"
+},{
+  "url":"https://asia-east2-jsondoc.cloudfunctions.net/function-1?delay=10000",
+  "isParallel":false,
+  "count":"3"
+}]
